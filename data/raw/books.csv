@@ -1,0 +1,6 @@
+book_id,title,author,genre,description,tags,language,publication_year,publisher,isbn,page_count
+101,The Great Adventure,John Smith,Fiction,"An epic tale of adventure and discovery","adventure, fiction, fantasy",English,2023,Adventure Press,978-1234567890,320
+102,Mystery at Midnight,Sarah Brown,Mystery,"A thrilling mystery novel that will keep you guessing","mystery, thriller, suspense",English,2023,Mystery House,978-2345678901,280
+103,Science of Tomorrow,Dr. James Lee,Science,"Exploring the future of technology and innovation","science, technology, future",English,2023,Future Books,978-3456789012,400
+104,The Hidden Path,Emma White,Fantasy,"A magical journey through enchanted realms","fantasy, magic, adventure",English,2023,Magic Press,978-4567890123,350
+105,Business Success,Michael Ross,Business,"A comprehensive guide to business growth","business, success, leadership",English,2023,Business Books,978-5678901234,250 

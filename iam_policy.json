@@ -1,0 +1,18 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "lambda:*",
+                "apigateway:*",
+                "logs:*",
+                "cloudformation:*",
+                "s3:*",
+                "cloudwatch:*",
+                "xray:*"
+            ],
+            "Resource": "*"
+        }
+    ]
+} 
