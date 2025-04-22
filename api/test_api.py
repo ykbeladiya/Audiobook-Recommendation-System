@@ -35,10 +35,10 @@ def test_recommendations():
             print_recommendation(rec)
             
     except requests.exceptions.ConnectionError:
-        print("\n❌ Error: Could not connect to the API server.")
+        print("\n Error: Could not connect to the API server.")
         print("   Make sure the server is running with: uvicorn api.main:app --reload")
     except Exception as e:
-        print(f"\n❌ Error: {str(e)}")
+        print(f"\n Error: {str(e)}")
 
 if __name__ == "__main__":
     test_recommendations() 
